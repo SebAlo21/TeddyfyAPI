@@ -1,18 +1,22 @@
   [ 
-    {"nombre":"Elefante"
+    {
+    "id":"1"
+    ,"nombre":"Elefante"
     ,"descripcion":"peluche elefante basico"
     ,"categoria":"animal-zoo"
     ,"precioBase": 20.50
     ,"imagenURL":"https://res.cloudinary.com/sasadev/image/upload/fl_preserve_transparency/v1749446586/nuevo_EPink_lq9kie.jpg?_s=public-apps"
    },
    {
-    "nombre":"Oso Elegante"
+    "id":"2"
+    ,"nombre":"Oso Elegante"
     ,"descripcion": "Oso basico sombrero elegante"
     ,"categoria": "disfraz-basico"
     ,"precioBase":25.00
     ,"imagenURL":"https://res.cloudinary.com/sasadev/image/upload/fl_preserve_transparency/v1749446586/nuevo_Freddy_dchovi.jpg?_s=public-apps"
    },
    {
+    "id":"3",
     "nombre":"Snoopy"
     ,"descripcion":"Peluche de Snoopy "
     ,"categoria":"animado-basico"
@@ -20,6 +24,7 @@
     ,"imagenURL":"https://res.cloudinary.com/sasadev/image/upload/fl_preserve_transparency/v1749446587/nuevo_Snoopy_trn0mv.jpg?_s=public-apps"
    },
    {
+    "id":"4",
     "nombre":"Oso Lazo"
     ,"descripcion":"Oso basico"
     ,"categoria":"animal-basico"
@@ -27,6 +32,7 @@
     ,"imagenURL":"https://res.cloudinary.com/sasadev/image/upload/fl_preserve_transparency/v1749446588/nuevo_TBrow_zpfcsq.jpg?_s=public-apps"
    }
    ,{
+    "id":"5",
     "nombre":"Oso Basico"
     ,"descripcion":"Oso Peluche Basico"
     ,"categoria":"animal-basico"
@@ -34,6 +40,7 @@
     ,"imagenURL":"https://res.cloudinary.com/sasadev/image/upload/fl_preserve_transparency/v1749446589/nuevo_TPardo_durbx1.jpg?_s=public-apps"
    }
    ,{
+    "id":"6",
     "nombre":"Oso Corazon"
     ,"descripcion":"Oso con corazon mensaje"
     ,"categoria":"san-valentin"

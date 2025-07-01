@@ -9,6 +9,7 @@ const app = express()
 //Cors
 app.use(cors())
 
+
 //Contenido
 app.get('/api/productos',(req,res) => {
     res.json(productos)
